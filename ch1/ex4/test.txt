@@ -1,0 +1,12 @@
+input
+some
+Text
+great big world
+again
+input
+text
+go
+gopher
+gopher
+fmt.Println("Hello world")
+great big world
