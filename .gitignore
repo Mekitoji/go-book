@@ -1,4 +1,5 @@
 *.gif
 *.log
 *.exe
+*.svg
 examples/
