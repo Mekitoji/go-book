@@ -2,4 +2,5 @@
 *.log
 *.exe
 *.svg
+*.png
 examples/
